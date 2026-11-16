@@ -1,6 +1,6 @@
 [project]
 name = "py-trie-index"
-version = "0.1.0"
+version = "0.1.1"
 description = "A prefix tree that answers autocomplete queries over a fixed vocabulary in time proportional to the query length plus the number of matches."
 requires-python = ">=3.10"
 dependencies = []
